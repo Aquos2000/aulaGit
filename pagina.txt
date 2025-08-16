@@ -3,3 +3,5 @@ Pagina Inicial
 Inseri Título
 
 Cria Formulário
+
+Imprimi dados
